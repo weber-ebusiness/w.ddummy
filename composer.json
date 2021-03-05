@@ -1,0 +1,12 @@
+{
+    "name": "w.d/w.ddummy",
+    "description": "weber.digital Dummy",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weber.digital",
+            "email": "info@weber.digital",
+            "homepage": "https://weber.digital"
+        }
+    ]
+}
